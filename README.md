@@ -32,9 +32,9 @@
 ## 💻 My Equipment
 
 <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i7%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-mx%20250-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/intel-core%20i7%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+<img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/nvidia-mx%20250-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 
 ## ✉️ Connect with Me
 
@@ -47,8 +47,4 @@
 
 <a href="./my_pk_cert.cer" download>
     <img src="https://img.shields.io/badge/Public Key Certificate-444?style=for-the-badge&logo=GNU Privacy Guard&logoColor=white">
-</a>
-
-<a href="./my_pk_cert.cer" download>
-    <img src="https://img.shields.io/badge/GnuPG_Public_Key-444?style=for-the-badge&logo=GNU Privacy Guard&logoColor=white">
 </a>
