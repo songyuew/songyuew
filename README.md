@@ -32,14 +32,6 @@
 
 ![Songyue's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=songyuew&theme=tokyonight)
 
-## 💻 My Equipment
-
-![laptop](https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)
-![OS](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
-![CPU](https://img.shields.io/badge/intel-core%20i7%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
-![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
-![Graphic Card](https://img.shields.io/badge/nvidia-mx%20250-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
-
 ## ✉️ Connect with Me
 
 <a href="https://www.linkedin.com/in/songyue-wang/">
