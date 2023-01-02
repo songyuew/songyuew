@@ -1,8 +1,8 @@
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/3ohs7HdhQA4ffttvrO/giphy.gif" width=300 height=120px/>
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/3ohs7HdhQA4ffttvrO/giphy.gif" width=300 height=150px/>
 
-<img alt="name tag" src="https://img.shields.io/badge/Hey! This is Songyue-339AF0?style=for-the-badge" width=300/>
+<img alt="name tag" src="https://img.shields.io/badge/Hey! This is Songyue-339AF0?style=for-the-badge" width=400/>
 
-<img src="https://img.shields.io/badge/Tech%20Enthusiast%20%7C%20Student-7600bc?style=for-the-badge" width=260/>
+<img src="https://img.shields.io/badge/Tech%20Enthusiast%20%7C%20Student-7600bc?style=for-the-badge" width=320/>
 
 ## Skills
 
