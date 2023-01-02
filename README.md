@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/Tech%20Enthusiast%20%7C%20Student-7600bc?style=for-the-badge" width=320/>
 
-## 💪 Skills
+## 👨‍💻 Skills
 
 ![CPP Logo](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSharp Logo](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -18,7 +18,7 @@
 ![OpenJDK Logo](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![WordPress Logo](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-## 👨‍💻 Project Interests
+## 😍 Project Interests
 
 - 🔐 Cryptography
 - 🏦 Fintech
