@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/3ohs7HdhQA4ffttvrO/giphy.gif" width=300/>
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/3ohs7HdhQA4ffttvrO/giphy.gif" width=300 height=120px/>
 
 <img alt="name tag" src="https://img.shields.io/badge/Hey! This is Songyue-339AF0?style=for-the-badge" width=300/>
 
