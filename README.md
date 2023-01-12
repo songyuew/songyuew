@@ -28,7 +28,7 @@
 
 ## 🗒️ Statistics
 
-![Songyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyuew&show_icons=true&theme=tokyonight)
+![Songyue's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=songyuew&show_icons=true&theme=tokyonight)
 
 ![Songyue's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=songyuew&theme=tokyonight)
 
