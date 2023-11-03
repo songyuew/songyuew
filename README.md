@@ -33,10 +33,7 @@
 ## 🗒️ Statistics
 
 ![Songyue's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=songyuew&theme=tokyonight)
-![Songyue's GitHub Stats](https://raw.githubusercontent.com/vn7n24fzkq/songyuew/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
-![Songyue's GitHub Stats](https://raw.githubusercontent.com/vn7n24fzkq/songyuew/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
-![Songyue's GitHub Stats](https://raw.githubusercontent.com/vn7n24fzkq/songyuew/master/profile-summary-card-output/solarized/3-stats.svg)
-![Songyue's GitHub Stats](https://raw.githubusercontent.com/vn7n24fzkq/songyuew/master/profile-summary-card-output/solarized/4-productive-time.svg)
+
 
 ## ✉️ Connect with Me
 
