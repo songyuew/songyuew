@@ -35,6 +35,9 @@
 ![Songyue's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=songyuew&theme=tokyonight)
 ![Songyue's GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=songyuew&theme=tokyonight)
 ![Songyue's GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=songyuew&theme=tokyonight)
+![Songyue's GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=songyuew&theme=tokyonight)
+![Songyue's GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=songyuew&theme=tokyonight)
+
 
 
 
